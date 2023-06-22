@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏽‍🎓 I'm a student at Vanderbilt University in Nashville, Tennessee
+- 👨🏽‍🎓 I'm a Computer student at Vanderbilt University in Nashville, Tennessee
 - 🔭 My current work-in-progress is a web application quiz game that utilizes the Trivia API for questions and answers
 - 🌱 I’m currently learning R, Kotlin, and Java
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/)
