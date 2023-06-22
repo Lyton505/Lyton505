@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👨🏽‍🎓 I'm a student at Vanderbilt University in Nashville, Tennessee
 - 🔭 I’m currently working on a web application quiz game that utilizes the Trivia API for questions and answers
 - 🌱 I’m currently learning R, Kotlin, and Java
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/lytonmhlanga/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/)
 
 
 <a href="https://github.com/anuraghazra/convoychat">
