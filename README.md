@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Lyton505">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&card_width=320"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyton505&layout=compact&langs_count=6&card_width=320"/>
 </a>
