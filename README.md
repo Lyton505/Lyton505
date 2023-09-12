@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👨🏽‍🎓 I'm a Computer Science student at Vanderbilt University in Tennessee, USA
 - 🔭 My current work-in-progress is a web application quiz game that utilizes the Trivia API for questions and answers
-- 🌱 I’m currently learning R, Kotlin, and Java
+- 🌱 I’m currently learning React, Python and Java
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/)
 
 
