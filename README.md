@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏽‍🎓 I'm a Computer Science student
-- 🔭 I have various projects that I am working on, chief among which is a Reddit-like full stack web application called "Greenify Hub" that promotes environmental sustainability and provides a platform for other environmental advocates and enthusiasts to share thoughts and ideas. You can find it in the pinned repositories
+- 🔭 Working on various projects; some are pinned in this repository
 - 🌱 I’m currently learning React, Python and Java
+- 😄 Pronouns: He/Him
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
 
 
