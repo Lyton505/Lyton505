@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👨🏽‍🎓 I'm a Computer Science student
 - 🔭 Working on various projects; some are pinned in this repository
 - 🌱 I’m currently learning React, Python and Java
-- 😄 Pronouns: He/Him
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
 
 
