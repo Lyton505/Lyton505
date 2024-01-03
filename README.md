@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏽‍🎓 I'm a Computer Science student
-- 🔭 Working on various projects; some are pinned in this repository
+- 🔭 Working on various projects; **check pinned repositories below for some of my projects**
 - 🌱 I’m currently doing UI/UX work with Develop for Good
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
 
