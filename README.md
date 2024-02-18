@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏽‍🎓 I'm a Computer Science student
-- 🔭 Working on various projects; **check pinned repositories below for some of my projects**
-- 🌱 I’m currently doing UI/UX work with Develop for Good
+I'm a UI/UX designer with Develop For Good, a focused CS student at Vanderbilt University, and a Linux enthusiast. 
+
+Currently, I'm...
+- building mobile screens for Be A Geek Inc. with 5 other UI/UX designers
+- going to NSBE 2024 — catch me in Atlanta, GA
+- learning ReactJS
+  
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
 
 
