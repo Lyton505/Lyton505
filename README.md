@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a UI/UX designer with Develop For Good, a focused CS student at Vanderbilt University, and a Linux enthusiast. 
 
-Currently, I'm...
+#### Currently, I'm...
 - building mobile screens for Be A Geek Inc. with 5 other UI/UX designers
 - going to NSBE 2024 — catch me in Atlanta, GA
 - learning ReactJS
