@@ -23,7 +23,11 @@ I'm a UI/UX designer with Develop For Good, a focused CS student at Vanderbilt U
 - learning ReactJS
   
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
+<hr>
+  <b>Past and current notable projects are pinned below</b>
+<hr>
 
+##### Here are a few stats and visualizations
 
 <a href="https://github.com/Lyton505">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyton505&layout=compact&langs_count=6&card_width=320"/>
