@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UI/UX designer with Develop For Good, a focused CS student at Vanderbilt University, and a Linux enthusiast. 
+I'm a focused CS student at Vanderbilt University, a Linux enthusiast, and a semi-professional semi-novice soccer player. 
 
 #### Currently, I'm...
 - building mobile screens for Be A Geek Inc. with 5 other UI/UX designers
