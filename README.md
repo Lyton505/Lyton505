@@ -17,15 +17,8 @@ Here are some ideas to get you started:
 
 I'm a focused CS student at Vanderbilt University, a Linux enthusiast, and a semi-professional semi-novice soccer player. 
 
-#### Currently, I'm...
-- building mobile screens for Be A Geek Inc. with 5 other UI/UX designers
-- going to NSBE 2024 — catch me in Atlanta, GA
-- learning ReactJS
   
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
-<hr>
-  <b>Past and current notable projects are pinned below</b>
-<hr>
 
 <!--
 ##### Here are a few stats and visualizations
