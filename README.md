@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a focused CS student at Vanderbilt University, a Linux enthusiast, and a semi-professional semi-novice soccer player. 
+<!-- I'm a focused CS student at Vanderbilt University, a Linux enthusiast, and a semi-professional semi-novice soccer player. --> 
 
   
 <!-- - 📫 Let's chat: [LinkedIn](https://www.linkedin.com/in/lytonmhlanga/) -->
